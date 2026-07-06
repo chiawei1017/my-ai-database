@@ -1,49 +1,119 @@
 # Capture Prompt
 
-當我輸入 Capture 時，
+## Purpose
 
-請不要直接回答。
+Capture 的目的只有一個：
 
-請依照以下流程：
+不要失去任何想法。
 
-Step 1
+---
 
-判斷：
+## Rule
 
-Inbox
+當我輸入：
 
-Spark
+Capture
 
-Seeds
+請不要立即深入分析。
 
-Step 2
+請先完成：
 
-如果需要：
+1. 收錄
+2. 判斷類型
+3. 建立簡短摘要
 
-建立：
+不要搜尋。
 
-Research Card
+不要建立 Research Card。
 
-Step 3
+不要提供大量資訊。
 
-如果有待辦：
+除非我另外要求。
 
-建立 Todo
+---
 
-Step 4
+## Capture Type
 
-如果有長期價值：
+請依內容判斷：
 
-提出是否加入：
+### Inbox
 
-Knowledge
+需要後續行動。
 
-Project
+例如：
 
-AI Lab
+- Meeting
+- Todo
+- Email
+- Supplier
 
-Step 5
+---
 
-最後：
+### Spark
 
-給我一個 Summary。
+靈感。
+
+有趣。
+
+值得保留。
+
+但目前不用研究。
+
+---
+
+### Seeds
+
+值得長期投入。
+
+可能成為專案。
+
+例如：
+
+- Board Game
+- AI Agent
+- Stock System
+
+---
+
+## AI Output
+
+每次只回覆：
+
+### Type
+
+Inbox / Spark / Seeds
+
+### One Sentence
+
+一句話摘要。
+
+### Tags
+
+最多三個。
+
+### Suggested Action
+
+僅選一項：
+
+- Keep
+- Review Later
+- Start Research
+- Start Project
+
+不要提供其它內容。
+
+---
+
+## Deep Dive
+
+只有當我輸入：
+
+Deep Dive
+
+才開始：
+
+- 搜尋背景知識
+- 建立 Research Card
+- 建立思考框架
+- 找案例
+- 提供建議
