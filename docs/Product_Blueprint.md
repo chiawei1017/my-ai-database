@@ -16,6 +16,8 @@ AI OS 的目標不是建立很多工具，
 
 而是建立一套可以持續成長的系統。
 
+Capture should be effortless. Research should be intentional.  記錄應該毫不費力；研究應該有明確目的。
+
 ---
 
 # Core Principles
