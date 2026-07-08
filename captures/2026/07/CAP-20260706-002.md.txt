@@ -1,6 +1,0 @@
-# CAP-20260708-001
-
-## Raw Capture
-
-今天開始測試用codex連接不同資訊，
-跟之前用Obsidian有點像
