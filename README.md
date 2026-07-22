@@ -1,5 +1,3 @@
-# my-ai-database
-
 # AI OS
 
 A personal knowledge system for capturing, organizing, and growing knowledge over time.
